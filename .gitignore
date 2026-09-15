@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Données volumineuses (hors Git)
+data/
+*.zip
+*.pickle
+
+# Artefacts générés par scripts/prepare_artifacts.py
+artifacts/
+
+# Secrets locaux (.env est écrit par deploy.sh)
+.env
+local.settings.json
+.python_packages/
+

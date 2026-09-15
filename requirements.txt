@@ -1,0 +1,15 @@
+pandas>=2.0
+numpy>=1.26,<3
+scikit-learn>=1.4
+scipy>=1.11
+implicit>=0.7
+scikit-surprise>=1.1
+streamlit>=1.35
+matplotlib>=3.8
+seaborn>=0.13
+jupyter
+pyarrow>=15
+requests>=2.31
+azure-storage-blob>=12.19
+azure-functions>=1.25,<2
+azurefunctions-extensions-bindings-blob>=1.1.2,<2
