@@ -1,0 +1,18 @@
+{
+  "popularite": {
+    "hit_rate_at_5": 0.0348,
+    "mrr_at_5": 0.015740000000000007
+  },
+  "content_based_250": {
+    "hit_rate_at_5": 0.0088,
+    "mrr_at_5": 0.004803333333333332
+  },
+  "content_based_dernier": {
+    "hit_rate_at_5": 0.013,
+    "mrr_at_5": 0.006983333333333333
+  },
+  "content_based_pca50": {
+    "hit_rate_at_5": 0.0068,
+    "mrr_at_5": 0.003983333333333333
+  }
+}
