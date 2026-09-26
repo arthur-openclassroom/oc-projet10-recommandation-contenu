@@ -1,0 +1,46 @@
+{
+  "connus": {
+    "popularite": {
+      "hit_rate_at_5": 0.0005,
+      "mrr_at_5": 0.0003
+    },
+    "tendance_30min": {
+      "hit_rate_at_5": 0.371,
+      "mrr_at_5": 0.2041
+    },
+    "cb_frais_24h": {
+      "hit_rate_at_5": 0.0622,
+      "mrr_at_5": 0.0313
+    },
+    "als_bm25": {
+      "hit_rate_at_5": 0.0005,
+      "mrr_at_5": 0.0001
+    },
+    "hybride": {
+      "hit_rate_at_5": 0.4263,
+      "mrr_at_5": 0.2477
+    }
+  },
+  "nouveaux": {
+    "popularite": {
+      "hit_rate_at_5": 0.0,
+      "mrr_at_5": 0.0
+    },
+    "tendance_30min": {
+      "hit_rate_at_5": 0.4675,
+      "mrr_at_5": 0.2697
+    },
+    "cb_frais_24h": {
+      "hit_rate_at_5": 0.0,
+      "mrr_at_5": 0.0
+    },
+    "als_bm25": {
+      "hit_rate_at_5": 0.0,
+      "mrr_at_5": 0.0
+    },
+    "hybride": {
+      "hit_rate_at_5": 0.4768,
+      "mrr_at_5": 0.2703
+    }
+  }
+}
